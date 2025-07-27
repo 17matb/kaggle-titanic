@@ -16,4 +16,4 @@
 
 -   Je n'ai pas assez expérimenté avec les différents types de modèles.
 
--   J'ai alloué trop de temps à la partie EDA.
+-   J'ai alloué trop de temps à la partie data preprocessing et EDA.
